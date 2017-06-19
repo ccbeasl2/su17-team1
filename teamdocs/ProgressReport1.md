@@ -1,9 +1,11 @@
+**Date Submitted**
+ * June 8th, 2017 by Camille Beasley, Allison Gaerke, and Gabriella Berlanti
+ 
 **Accomplishments**
 
-  * Assigned tasks to group members
-  * Set up GroupMe to communicate with group members
-  * Commited team charter
-  * Sumbitted one sentence pitch
+  * Created teamdocs folder
+  * Completed Team Charter and Progress Report 1
+  * Updated Readme for project pitch
   
 **Uncompleted Tasks**
   * N/A
